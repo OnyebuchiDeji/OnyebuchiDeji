@@ -2,7 +2,9 @@
 
 >  🧠​ Computer Science Graduate
 >  Becoming a software engineer/developer, game engine developer, fullstack web developer, ai explorer
->  I explore creating AI apps, game develpment and design, website development and design, web scraping, and more.
+>  Exploring and creating AI apps
+>  Dabbling into game develpment and 3d design
+>  Website fullstack development and Java at uni
 
 
 # 💻 Tech Stack:
