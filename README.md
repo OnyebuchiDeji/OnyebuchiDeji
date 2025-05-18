@@ -1,10 +1,7 @@
-## Hi, It's Deji
+## Hi, I'm Deji
 
-
-#  Who am I?
-
->  Computer Science Graduate
->  Software engineer/developer, game engine developer, fullstack web developer, ai explorer
+>  🧠​ Computer Science Graduate
+>  Becoming a software engineer/developer, game engine developer, fullstack web developer, ai explorer
 >  I explore creating AI apps, game develpment and design, website development and design, web scraping, and more.
 
 
@@ -15,7 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=OnyebuchiDeji&theme=moltack&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnyebuchiDeji&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=OnyebuchiDeji&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
