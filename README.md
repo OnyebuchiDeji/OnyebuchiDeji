@@ -1,8 +1,9 @@
 ## Hi, I'm Ebenezer. You can call me Deji here.
 
-***Email***:ebenayo10@gmail.com
-***LinkedIn***: ![LinkedIn Profile](https://www.linkedin.com/in/ebenezer-ayo-metibemu-93392626b/)
-***Portfolio Website***: ![Portfolio](https://www.gallerybelt.khaylemsoft.com)
+#####  Contact
+- ebenayo10@gmail.com
+- [`LinkedIn Profile`](https://www.linkedin.com/in/ebenezer-ayo-metibemu-93392626b/)!
+- [`Portfolio Website`](https://www.gallerybelt.khaylemsoft.com)
 
 >  🧠​ Computer Science Graduate
 +  Aspiring software developer and data scientist: fullstack, desktop, AI, datascience, and graphics.
