@@ -19,29 +19,32 @@ and exploring cutting-edge technologies in graphics rendering and software archi
 
 ---
 
-##  Most Popular Repos
+##  Most Popular Projects
 
 ---
 ####  [`EzEats`](https://ezeats.khaylemsoft.com) E-Shopping Website September 2025 – January 2026
-•  University Project | ezeats.khaylemsoft.com | PHP, MySQL, JavaScript, React
+•  University Project | https://ezeats.khaylemsoft.com | PHP, MySQL, JavaScript, React
 • Improved content-loading speed by 33.8% by implementing server-side serialization with hash-table deserialization for lazy loading, significantly enhancing page performance and user experience
 • Developed full-stack e-commerce platform with responsive design and intuitive UI using modern web technologies
 
+---
 #### [`Gallery Belt`](https:/gallerybelt.khaylemsoft.com) Portfolio Website July 2025 – August 2025
-•  Freelance Project | ![https://gallerybelt.khaylemsoft.com] | Python, Flask, React
+•  Freelance Project | https://gallerybelt.khaylemsoft.com | Python, Flask, React
 • Reduced page-switching latency by 550ms by implementing intelligent client-side caching strategy,
 delivering faster and smoother navigation experience
 • Deployed full-stack solution on KVM VPS infrastructure with optimized server configuration for
 maximum performance
 
+---
 #### [`Deji Arts`](https://github.com/OnyebuchiDeji/DejiArts) Graphics Engine September 2023 – Present
-Personal Project | ![https://github.com/OnyebuchiDeji/DejiArts] | Python, ModernGL, PyGLM, Pygame
+Personal Project | https://github.com/OnyebuchiDeji/DejiArts | Python, ModernGL, PyGLM, Pygame
 • Developed comprehensive graphics engine for shader research and experimentation, featuring intuitive
 APIs for easy geometry setup and shader testing across various rendering techniques
 • Implemented image capture and video recording APIs for visual output analysis and documentation
 purposes
 • Ongoing development includes GUI integration to expand accessibility to non-technical users
 
+---
 ---
 
 ## 💻 Tech Stack
