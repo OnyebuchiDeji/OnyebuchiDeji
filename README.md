@@ -18,7 +18,7 @@
 and exploring cutting-edge technologies in graphics rendering and software architecture.
 
 ---
-
+---
 ##  Most Popular Projects
 
 ---
@@ -44,7 +44,6 @@ APIs for easy geometry setup and shader testing across various rendering techniq
 purposes
 • Ongoing development includes GUI integration to expand accessibility to non-technical users
 
----
 ---
 
 ## 💻 Tech Stack
