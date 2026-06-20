@@ -2,7 +2,7 @@
 
 ####  Contact
 
-- ebenayo10@gmail.com
+- (`ebenayo10@gmail.com`)
 - [`LinkedIn Profile`](https://www.linkedin.com/in/ebenezer-ayo-metibemu-93392626b/)
 - [`Portfolio Website`](https://www.gallerybelt.khaylemsoft.com)
 
