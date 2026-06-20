@@ -1,6 +1,7 @@
 ## Hi, I'm Ebenezer. You can call me Deji here.
 
 ####  Contact
+
 - ebenayo10@gmail.com
 - [`LinkedIn Profile`](https://www.linkedin.com/in/ebenezer-ayo-metibemu-93392626b/)
 - [`Portfolio Website`](https://www.gallerybelt.khaylemsoft.com)
@@ -17,11 +18,9 @@
 +  Passionate in researching and building high-performance AI applications
 and exploring cutting-edge technologies in graphics rendering and software architecture.
 
----
----
+
 ##  Most Popular Projects
 
----
 ####  [`EzEats`](https://ezeats.khaylemsoft.com) E-Shopping Website September 2025 – January 2026
 •  University Project | https://ezeats.khaylemsoft.com | PHP, MySQL, JavaScript, React
 • Improved content-loading speed by 33.8% by implementing server-side serialization with hash-table deserialization for lazy loading, significantly enhancing page performance and user experience
